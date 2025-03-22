@@ -1,2 +1,2 @@
 # JavaScript-Project
-Project mainly bases on JavaScript with Html and CSS.
+Project mainly based on JavaScript with Html and CSS.
